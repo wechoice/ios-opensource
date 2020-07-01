@@ -10,3 +10,5 @@
 - [`Outlook iOS`开源的国际化工具`LocalizedStringKit`](https://github.com/microsoft/LocalizedStringKit)
 - [swift - HTML解析库`SwiftSoup`](https://github.com/scinfu/SwiftSoup)
 - [swift - 滚动字幕`MarqueeLabel`](https://github.com/cbpowell/MarqueeLabel.git)
+- [objc - 切面编程`Stinger`](https://github.com/eleme/Stinger)
+- [objc - 切面编程`Aspects`](https://github.com/steipete/Aspects)[文章：Stinger到底能比Aspects快多少](https://juejin.im/post/5df5dcbc6fb9a0166138ff23)
