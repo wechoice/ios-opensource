@@ -12,3 +12,11 @@
 - [swift - 滚动字幕`MarqueeLabel`](https://github.com/cbpowell/MarqueeLabel.git)
 - [objc - 切面编程`Stinger`](https://github.com/eleme/Stinger)
 - [objc - 切面编程`Aspects`](https://github.com/steipete/Aspects)[文章：Stinger到底能比Aspects快多少](https://juejin.im/post/5df5dcbc6fb9a0166138ff23)
+- [swift - 表单、列表构建方案`Flix`](https://github.com/DianQK/Flix.git)
+- [objc - 图片选择器`ZLPhotoBrowser`](https://github.com/longitachi/ZLPhotoBrowser.git)
+- [swift - 消息提醒小圆点`PPBadgeView`](https://github.com/jkpang/PPBadgeView)
+
+## 其他
+
+- [类似于即刻APP首页](https://github.com/bawn/Aquaman)
+- [Swift 开源精选](https://github.com/ipader/SwiftGuide)
