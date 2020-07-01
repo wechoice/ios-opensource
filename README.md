@@ -6,3 +6,4 @@
 - [swift - 空的表/集合视图`EmptyDataSet-Swift`](https://github.com/Xiaoye220/EmptyDataSet-Swift.git)
 - [objc - 空的表/集合视图`DZNEmptyDataSet`](https://github.com/dzenbot/DZNEmptyDataSet.git)
 - [objc - didi开发调试工具`echo`](https://github.com/didi/echo.git)
+- [swift - 类似于`VoiceOver`的从屏幕底部的卡片视图弹窗视图`BulletinBoard`](https://github.com/alexaubry/BulletinBoard.git)
