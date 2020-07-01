@@ -8,3 +8,4 @@
 - [objc - didi开发调试工具`echo`](https://github.com/didi/echo.git)
 - [swift - 类似于`VoiceOver`的从屏幕底部的卡片视图弹窗视图`BulletinBoard`](https://github.com/alexaubry/BulletinBoard.git)
 - [`Outlook iOS`开源的国际化工具`LocalizedStringKit`](https://github.com/microsoft/LocalizedStringKit)
+- [swift - HTML解析库`SwiftSoup`](https://github.com/scinfu/SwiftSoup)
